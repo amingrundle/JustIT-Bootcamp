@@ -9,7 +9,7 @@ During the JustIT Data Analysis bootcamp I undertook 4 projects
 
 3. SQL Assignment "https://github.com/amingrundle/JustIT-Bootcamp/blob/main/STORE%20final.sql
                    https://github.com/amingrundle/JustIT-Bootcamp/blob/main/MYSQL%20Report.pdf"
-4. R Assignment 
+4. R Assignment ---- https://github.com/amingrundle/JustIT-Bootcamp/tree/main/R%20and%20PowerBI
 
 
 
